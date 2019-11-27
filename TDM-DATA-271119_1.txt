@@ -1,0 +1,19 @@
+﻿Atelier DATA TDM_Atelier_DATA_27_11_19.TXT
+ Tables des matières : 	
+            ▪ Base de données : c’est quoi ?
+            ▪ Fonctionnement des bases de données
+            ▪ L’histoire des bases de données
+            ▪ Quels sont les différents types de bases de données
+            ▪ Les bases de données relationnelles et non relationnelles
+            ▪ Comment collecter des données et les stocker
+            ▪ Analyse de données
+            ▪ Les formats de fichiers de données
+            ▪ Les librairies ( import / export )
+            ▪ Pandas, c’est quoi ?
+            ▪ Exploiter des données
+            ▪ Les différents types de bases de données
+            ▪ Qu’est ce que le SQL ?
+            ▪ Les commandes et outils SQL
+            ▪ Qu’est ce qu’un administrateur de base données ?
+            ▪ Qu’elles sont les meilleurs base de données à l’heure actuelle ?
+            ▪ Mysql c’est quoi ?
